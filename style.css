@@ -113,6 +113,10 @@ main {
   height: 200px;
 }
 
+.text-box.show {
+  transform: translate(-50%, 0);
+}
+
 .box .info {
   background-color: darksalmon;
   color: #fff;
